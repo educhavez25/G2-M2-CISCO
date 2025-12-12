@@ -82,7 +82,7 @@ export default function Modulo2Presentation() {
         <div className="container mx-auto px-6 flex justify-between items-center">
           <div className="flex items-center space-x-3 group cursor-pointer">
             <div className="p-2 bg-green-900/20 rounded-lg group-hover:bg-green-500/20 transition-colors">
-              <img src="/logo.png" alt="Logo" className="w-8 h-8" />
+              <img src="logo.png" alt="Logo" className="w-8 h-8" />
             </div>
             <span className="text-xl font-bold font-mono tracking-tighter text-white">UN<span className="text-green-500">JFSC</span></span>
           </div>
